@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/wc-utils",
-  "version": "1.8.10",
+  "name": "@luxwallet/wc-utils",
+  "version": "1.8.11",
   "description": "Utility Library for WalletConnect",
   "publishConfig": {
     "access": "public"
