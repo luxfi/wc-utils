@@ -1,4 +1,4 @@
-export * from "@luxfi/wc-browser-utils";
+export * from "@luxwallet/wc-browser-utils";
 export * from "./constants";
 export * from "./encoding";
 export * from "./ethereum";

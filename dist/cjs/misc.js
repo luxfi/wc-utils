@@ -32,7 +32,7 @@ function uuid() {
 }
 exports.uuid = uuid;
 function logDeprecationWarning() {
-    console.warn("DEPRECATION WARNING: This WalletConnect client library will be deprecated in favor of @luxfi/wc-client. Please check docs.walletconnect.org to learn more about this migration!");
+    console.warn("DEPRECATION WARNING: This WalletConnect client library will be deprecated in favor of @luxwallet/wc-client. Please check docs.walletconnect.org to learn more about this migration!");
 }
 exports.logDeprecationWarning = logDeprecationWarning;
 function getInfuraRpcUrl(chainId, infuraId) {

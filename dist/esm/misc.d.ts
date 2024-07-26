@@ -1,5 +1,5 @@
 import * as jsonRpcUtils from "@walletconnect/jsonrpc-utils";
-import { IRpcConfig } from "@luxfi/wc-types";
+import { IRpcConfig } from "@luxwallet/wc-types";
 export declare function sanitizeHex(hex: string): string;
 export declare function addHexPrefix(hex: string): string;
 export declare function removeHexPrefix(hex: string): string;

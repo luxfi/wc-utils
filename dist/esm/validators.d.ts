@@ -1,4 +1,4 @@
-import { IJsonRpcSubscription, IJsonRpcRequest, IJsonRpcResponseSuccess, IJsonRpcResponseError, IInternalEvent } from "@luxfi/wc-types";
+import { IJsonRpcSubscription, IJsonRpcRequest, IJsonRpcResponseSuccess, IJsonRpcResponseError, IInternalEvent } from "@luxwallet/wc-types";
 export declare function isEmptyString(value: string): boolean;
 export declare function isEmptyArray(array: any[]): boolean;
 export declare function isBuffer(val: any): boolean;

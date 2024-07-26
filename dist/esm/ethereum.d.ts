@@ -1,4 +1,4 @@
-import { ITxData } from "@luxfi/wc-types";
+import { ITxData } from "@luxwallet/wc-types";
 export declare function toChecksumAddress(address: string): string;
 export declare const isValidAddress: (address?: string) => boolean;
 export declare function parsePersonalSign(params: string[]): string[];
