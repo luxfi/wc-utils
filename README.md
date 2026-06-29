@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="wc-utils" width="880"></p>
+
 # WalletConnect Utils
 
 Utility Library for WalletConnect
